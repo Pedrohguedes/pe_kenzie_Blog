@@ -1,0 +1,100 @@
+<!DOCTYPE html> 
+<html lang="pt-br">      
+<head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE-edge"/> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title> E-commcerce Pedro </title>
+    <link rel="icon" href="https://kenzie.com.br/favicon.jpeg" />
+    <link rel="stylesheet" href="styler.css">
+</head>
+<body>
+ <header class="Menu">
+     <div class=" Menu-flex">
+         <div class="Menu-coluna">
+             <h1 class="Logo"> <strong>Techshop</strong></h1>  
+             <nav class="menu-nav">
+                 <ul>
+                     <li><a herf="">Televisão</a></li>
+                     <li><a href="">Celulares</a></li>
+                     <li><a herf="">Eletrodomesticos</a></li>
+                     <li><a herf="">Informatica</a></li>
+                 </ul>
+             </nav>
+            </div>
+    <div class="menu-column menu-second-column">
+            <a href="" class="menu-link-button">Promoções</a>
+    </div>      
+ </header>
+ <header>
+    <div class="container">
+        <main class="products-wrapper">
+            <img src="Imagem/img_03 Tv .png"width="282"heigth="207"top="157"left="173">
+            <h3> Televisão Kenzie</h3>
+                <p> smart Tv 50* UHD 4k Kenzie 50au7700,Processador crystal4k,tela...</p>
+                <p> R$ 2.000,00</p>
+            <button type="submit">Adicione ao Carrinho</button>
+        </main>
+    </div>
+    <div class="container">
+        <main class="products-wrapper"> 
+            <img src="Imagem/img_04 Notbook.png"width="282"heigth="207"top="157"left="173">
+            <h3>Notbook Kenzie </h3>
+             <p> Notebook Kenzie - i3501-M10P 15.6” HD 11ª Geração Intel Pentium Gold 4GB 128...</p>
+             <p>R$ 4.600,00</p>
+             <button type="submit">Adicione ao Carrinho</button>
+        </main>
+    </div>
+    <div class="container">
+        <main class="products-wrapper"> 
+            <img src="Imagem/img_06 Arcondicionado.png"width="282"heigth="207"top="157"left="173">
+            <h3>Ar Condicionado</h3>
+            <p>Ar Condicionado Split Kenzie 12.000 BTUs Springer Midea Frio - 220 Volts</p>
+            <p> R$ 2.000,00</p>
+            <button type="submit">Adicione ao Carrinho</button>
+         </main>
+    </div>
+    <div class="container">
+        <main class="products-wrapper"> 
+            <img src="Imagem/img_05 Geladeira.png"width="282"heigth="207"top="157"left="173">
+            <h3>Geladeira</h3>
+            <p>Geladeira Kenzie BRM44HK Frost Free Duplex com Compartimento Extrafrio e</p>
+            <p>R$ 2.568,40</p>
+            <button type="submit">Adicione ao Carrinho</button>
+        </main>
+    </div>
+    <div class="container">
+        <main class="products-wrapper"> 
+            <img src="Imagem/img_08 Celular.png"width="282"heigth="207"top="157"left="173">
+            <h3>Celular</H3>
+            <p>Smartphone Kenzie Brasil A03 Core Preto 32GB, Câmera Traseira 8 MP, Tela...</p>
+            <p>R$ 2.000,00</p>
+            <button type="submit">Adicione ao Carrinho</button>
+        </main>
+    </div>
+    <div class="container">
+        <main class="products-wrapper"> 
+            <img src="Imagem/img_01 Airfryer.png"width="282"heigth="207"top="157"left="173">
+            <h3>Airfryer</h3>
+            <p>Fritadeira Elétrica sem Óleo/Air Fryer  - Family-IV AF-30I Preta 3,5L</p>
+            <P>R$ 400,00</P>
+         </main>
+    </div>
+    <div class="container">
+        <main class="products-wrapper"> 
+            <img src="Imagem/img_07 Monitor.png"width="282"heigth="207"top="157"left="173">
+            <h3>Monitor</h3>
+            <p>Smart TV LED 43” Full HD AOC Roku 43S5195/78 com Wi-fi, Controle...</p>
+            <p>R$ 1.870,00</p>
+        </main>
+    </div>
+    <div class="container">
+        <main class="products-wrapper">
+           <img src="Imagem/img_02 Cadeira Gamer.png"width="282"heigth="207"top="157"left="173">
+           <h3>Cadeira Gamer</h3>
+           <p>Cadeira Gamer Giratória Red System com Apoio Cabeça Frisokar Preta</p> 
+           <p>R$ 1.240,00</p>  
+        </main>
+    </div>                 
+      </header> 
+</body>
